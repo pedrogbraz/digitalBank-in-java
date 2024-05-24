@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649c79d2-ce19-462f-8c98-8ceafb9ea4f5" name="Changes" comment="First Commit" />
+    <list default="true" id="649c79d2-ce19-462f-8c98-8ceafb9ea4f5" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/banco/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/banco/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/banco/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/banco/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/banco/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/banco/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/banco/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/banco/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/banco/ContaPoupanca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/banco/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/banco/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2gtVUxnED9yInWPBPMe2fSO60Bp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,6 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pedro/OneDrive/Documentos/Java Projects/project-01",
     "onboarding.tips.debug.path": "C:/Users/pedro/OneDrive/Documentos/Courses/Courses/Rocketseat/Fundamentos Java/project-01/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",

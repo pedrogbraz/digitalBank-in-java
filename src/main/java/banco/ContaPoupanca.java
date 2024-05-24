@@ -1,9 +1,5 @@
 package banco;
 
-public class ContaPoupanca {
+public class ContaPoupanca extends Conta {
 
-    public String nome;
-    public int agencia;
-    public long numero;
-    public double saldo;
 }
