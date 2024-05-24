@@ -2,7 +2,8 @@ package banco;
 
 public class ContaPoupanca {
 
+    public String nome;
     public int agencia;
-    public int numero;
+    public long numero;
     public double saldo;
 }
