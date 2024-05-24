@@ -1,22 +1,24 @@
 package banco;
 
+import java.util.List;
+
 public class Banco {
     private String nomeCompleto;
-    private long cpf;
+    private List<Conta> contas;
 
     // Nome Completo
     public String getNomeCompleto() {
-        return nome;
+        return getNomeCompleto();
     }
     public void setNome(String nome) {
-        this.nome = nome;
+        this.getNomeCompleto();
     }
 
-    // CPF
-    public long getCpf() {
-        return cpf;
+    public List<Conta> getContas() {
+        return contas;
     }
-    public void setCpf(long cpf) {
-        this.cpf = cpf;
+
+    public void setContas(List<Conta> contas) {
+        this.contas = contas;
     }
 }

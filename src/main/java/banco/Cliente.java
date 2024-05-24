@@ -3,7 +3,6 @@ package banco;
 public class Cliente {
 
   private String nomeCompleto;
-  private long cpf;
 
   // Nome Completo
   public String getNomeCompleto() {
@@ -14,12 +13,6 @@ public class Cliente {
     this.nomeCompleto = nomeCompleto;
   }
 
-  // CPF
-  public long getCpf() {
-    return cpf;
+  public void setNome(String pedroGontijoBraz) {
   }
-  public void setCpf(long cpf) {
-    this.cpf = cpf;
-  }
-
 }
